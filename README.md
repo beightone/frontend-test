@@ -30,3 +30,5 @@ Get returned token, add in browser session and redirect to protected route.
 ## Good Luck
 
 **Figma:** 
+
+[https://www.figma.com/file/86E4yPneyZKYou9UcX4LDL/Front-End-Test?node-id=0%3A1](https://www.figma.com/file/86E4yPneyZKYou9UcX4LDL/Front-End-Test?node-id=0%3A1)
