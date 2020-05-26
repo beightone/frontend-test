@@ -1,6 +1,11 @@
 # Welcome B8ONE FrontEnd Test!
 Hi! We are happy with your willingness to work with us! In short, this test contains a challenge to implement a login screen along with some interactions with GraphQL.
 
+## Use
+
+- Typescript
+- React
+- Styled Components
 
 ## Goals
 
